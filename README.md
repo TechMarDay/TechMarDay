@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Long Nguyen from VN
 
 - 🔭 I'm working for STS company.
 - 🌱 I’m currently learning AWS and ReactJs
