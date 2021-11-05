@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I'm working for STS company.
+- 🌱 I’m currently learning AWS and ReactJs
+Blog: 
+https://viblo.asia/u/LongNguyenLK
+https://fullstack.edu.vn/me/posts/published?_type=tab
+
 <!--
 **TechMarDay/TechMarDay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
