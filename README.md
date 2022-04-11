@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Long Nguyen from VN
 
 - 🔭 I'm working for STS company.
-- 🌱 I’m currently learning AWS and ReactJs
+- 🌱 I’m currently learning ReactJs
 - Blog: 
 https://viblo.asia/u/LongNguyenLK
 https://fullstack.edu.vn/me/posts/published?_type=tab
