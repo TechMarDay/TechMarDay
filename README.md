@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Long Nguyen from VN
 
-- 🔭 I'm working for STS company.
-- 🌱 I’m currently learning ReactJs
+- 🔭 I'm working for STS company
 - Blog: 
 
 https://viblo.asia/u/LongNguyenLK
